@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tmymkn-desu/typescript-study/issues"
   },
-  "homepage": "https://github.com/tmymkn-desu/typescript-study#readme"
+  "homepage": "https://github.com/tmymkn-desu/typescript-study#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
